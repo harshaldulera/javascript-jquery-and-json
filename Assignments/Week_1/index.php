@@ -9,7 +9,7 @@ $rows = $stmt->fetchAll(PDO::FETCH_ASSOC);
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Jared Best | Resume Registry</title>
+    <title>6dc99b2f</title>
     <?php require_once "bootstrap.php"; ?>
 </head>
 <body>
